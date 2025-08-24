@@ -340,6 +340,49 @@ plugins:
             Research with OSM: Jak mogę prowadzić badania z wykorzystaniem projektu OSM?
             Find a developer: Gdzie możemy znaleźć dobrego programistę lub firmę, którzy będą współpracować z OSM?
             Downloading and using: Pobieranie i korzystanie z danych projektu OSM
+        - locale: tr
+      name: Türkçe
+      site_name: OpenStreetMap’e Hoş Geldiniz
+      copyright: © 2019-2025 OpenStreetMap Vakfı, <a rel="license" href="http://creativecommons.org/licenses/by-sa/2.0/" target="_blank"><img alt="Creative Commons Lisansı" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/2.0/80x15.png" /></a><br />Bu çalışma <a rel="license" href="http://creativecommons.org/licenses/by-sa/2.0/" target="_blank">Creative Commons Attribution-ShareAlike 2.0 Genel Lisansı</a> ile lisanslanmıştır.
+      theme:
+        palette:
+          - toggle:
+              name: Açık moda geç
+          - toggle:
+              name: Koyu moda geç
+          - toggle:
+              name: Sistem tercihine geç
+      extra:
+        announce:
+          toggle:
+            - label: Bilgiyi göster
+              icon: material/information-outline
+            - label: Bilgiyi gizle
+              icon: material/information
+          text: >-
+            <p><a href="https://www.openstreetmap.org" target="_blank">OpenStreetMap</a> topluluğu ve <a href="https://osmfoundation.org" target="_blank">Vakfı</a> için karşılama sayfası. OpenStreetMap, büyük bir uluslararası topluluk tarafından oluşturulan ve sürdürülen, özgür ve düzenlenebilir dünya haritasıdır. Herkes bir hesap açıp birkaç dakika içinde <a href="https://www.openstreetmap.org" target="_blank">OpenStreetMap</a> üzerinde düzenleme yapmaya başlayabilir.</p> <p>Bu rehberler <a href="http://creativecommons.org/licenses/by-sa/2.0/" target="_blank">Creative Commons Attribution-ShareAlike 2.0 Genel Lisansı</a> ile lisanslanmıştır. Katkıda bulunmak veya geri bildirimde bulunmak isterseniz lütfen bu <a href="https://github.com/osmfoundation/welcome-mat/issues" target="_blank">depo</a> üzerinden bir konu açabilirsiniz.</p>
+      nav_translations:
+        Home: Ana Sayfa
+        What is OpenStreetMap: OpenStreetMap nedir?
+        Who is OpenStreetMap: OpenStreetMap kimdir?
+        Why use OpenStreetMap: Neden OpenStreetMap kullanmalıyız?
+        How can we give back: Nasıl katkıda bulunabiliriz?
+        About Community: OpenStreetMap Topluluğu
+        History of OSM: OSM’nin tarihi?
+        OSMF: OSM Vakfı nedir?
+        Local Chapters: Yerel Bölümler nasıl oluşturuluyor?
+        Working Groups: OSM Vakfı Çalışma Grupları hakkında bilgi
+        Consumers: OpenStreetMap'i kimler kullanıyor?
+        OSM News: OpenStreetMap'teki yenilikler neler?
+        Donate: OpenStreetMap'e nasıl bağışta bulunabiliriz?
+        Contact: İletişime nasıl geçebiliriz?
+        Working with data: OpenStreetMap Verileriyle Çalışma
+        Data quality: OSM verileri ne kadar iyi?
+        Contribute data: OpenStreetMap'te Organize Edilmiş Düzenleme
+        Humanitarian campaign: OSM kullanarak insani yardım kampanyası planlıyoruz, bilmemiz gerekenler neler?
+        Research with OSM: OSM ile nasıl araştırma yapabilirim?
+        Find a developer: OSM ile çalışacak iyi bir geliştirici veya şirketi nerede bulabiliriz?
+        Downloading and using: OSM verilerini indirme ve kullanma
         - locale: uk
           name: Українська
           site_name: Ласкаво просимо до OpenStreetMap
